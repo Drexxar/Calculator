@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Строковый калькулятор</string>
+    <string name="button">Вычислить</string>
+    <string name="hint">Введите выражение</string>
+    <string name="operand_error">Недостаточное количество операндов для вычисления.</string>
+    <string name="symbol_error">Вводите только числа и математические операции</string>
+    <string name="string_error">Общая ошибка строки</string>
+</resources>
